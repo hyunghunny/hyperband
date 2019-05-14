@@ -26,6 +26,19 @@ The goal is to provide a fully functional implementation of Hyperband, as well a
 * a multilayer perceptron from Keras
 * gradient boosting from XGBoost (classification only)
 
+
+**Pre-requisites**
+------------------------
+
+```
+python=2.7
+scikit-learn
+keras-gpu
+tensorflow-gpu=1.12
+```
+
+
+
 Meta-classifier/regressor
 -------------------------
 
